@@ -1,4 +1,3 @@
-```md
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-ppic.gif" alt="Banner" width="100%" />
