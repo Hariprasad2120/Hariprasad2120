@@ -114,7 +114,7 @@ A unified enterprise platform for managing business operations from one place.
 
 ## 📫 Connect With Me
 
-- GitHub: `@YOUR_USERNAME`
+- GitHub: `Hariprasad2120`
 - LinkedIn: Add your LinkedIn link here
 - Portfolio: Add your website here
 
