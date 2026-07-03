@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Hariprasad 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Monolith;Enterprise+Operating+System;ERP+%7C+HRMS+%7C+CRM+%7C+CHA+%7C+Finance+%7C+AI;One+System.+Limitless+Possibilities." alt="Typing animation" />
 
 <p align="center">
   Building modern enterprise software, automation systems, and clean business dashboards.
