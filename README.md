@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jothi 👋</h1>
+<h1 align="center">Hi, I'm Hariprasad 👋</h1>
 
 <p align="center">
   Building modern enterprise software, automation systems, and clean business dashboards.
